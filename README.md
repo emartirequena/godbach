@@ -1,2 +1,2 @@
-# godbach
+# goldbach
 Analisis of Goldbach conjecture
